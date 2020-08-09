@@ -9,5 +9,5 @@
 
 - Rota criar uma aula
 - Rotalistar listar aulas
-  - filtrar por materia dia da semana e horaio
+  - filtrar por materia dia da semana e horário
 
